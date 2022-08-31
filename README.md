@@ -1,3 +1,7 @@
+# styled-components-Typscript
+
+This small project serves the purpose of illustrating the usage of styled-components in a React JS project with TypeScript.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
